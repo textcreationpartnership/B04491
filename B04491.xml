@@ -1,0 +1,277 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The night-vvalkers; or, The loyal huzza. Since treason never wanted a pretence, sure vertues chiefest guard is innocence; but I'le not trust her with it at this time, for fear I make my innocence a crime: imposing man may vertue backward draw, therefore I'le guard her with a loud huzza. To the tune of, On the bank of a river, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04491</idno>
+            <idno type="STC">Wing N1155</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.39.k.6[7]</idno>
+            <idno type="EEBO-CITATION">99887378</idno>
+            <idno type="PROQUEST">ocm99887378</idno>
+            <idno type="VID">182093</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04491)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182093)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:1[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The night-vvalkers; or, The loyal huzza. Since treason never wanted a pretence, sure vertues chiefest guard is innocence; but I'le not trust her with it at this time, for fear I make my innocence a crime: imposing man may vertue backward draw, therefore I'le guard her with a loud huzza. To the tune of, On the bank of a river, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for P[hilip]. Brooksby; near the Hospital-gate; in West-Smithfield:,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication and publisher's name from Wing.</note>
+                  <note>Verse: "The town is our own ..."</note>
+                  <note>Printed in two columns.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-06</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:182093:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 14 -->
+            <head>The Night-VValkers; <hi>Or,</hi> The Loyal HUZZA.</head>
+            <argument>
+               <l>Since Treaſon never wanted a Pretence,</l>
+               <l>Sure Vertues chiefeſt Guard is Innocence;</l>
+               <l>But I'le not truſt her with it at this time,</l>
+               <l>For fear I make my Innocence a Crime:</l>
+               <l>Impoſing Man may Vertue backward draw,</l>
+               <l>Therefore I'le Guard her with a loud <hi>Huzza.</hi>
+               </l>
+            </argument>
+            <opener>To the Tune of, <hi>On the Bank of a River,</hi> &amp;c.</opener>
+            <lg>
+               <l>THe Town is our own,</l>
+               <l>when the Streets are all clear;</l>
+               <l>We manage the humour,</l>
+               <l>and laugh at all fear;</l>
+               <l>Then down goes the <hi>Bully,</hi>
+               </l>
+               <l>the <hi>Heck,</hi> and <hi>Night-Walker;</hi>
+               </l>
+               <l>The whiſpering <hi>Cully,</hi>
+               </l>
+               <l>and every loud Talker:</l>
+               <l>
+                  <hi>The Conſtable flies,</hi>
+               </l>
+               <l>
+                  <hi>and his Club-men withdraw;</hi>
+               </l>
+               <l>
+                  <hi>When they hear the fierce cries</hi>
+               </l>
+               <l>
+                  <hi>of the dreadful</hi> Huzza:</l>
+               <l>
+                  <hi>The Conſtable;</hi> &amp;c.</l>
+            </lg>
+            <lg n="2">
+               <head>[2]</head>
+               <l>We neither do ſpare then,</l>
+               <l>Gown, Surplice, nor Sword,</l>
+               <l>But draw up our Forces,</l>
+               <l>and give them the Word:</l>
+               <l>Down down goes the Lawyer,</l>
+               <l>the Prieſt, and the Captain;</l>
+               <l>And woe to the Houſe</l>
+               <l>that a Candle is kept in:</l>
+               <l>We'l make the Glaſs flye,</l>
+               <l>and the <hi>Pimps</hi> ſtand in awe,</l>
+               <l>When they hear the fierce cry</l>
+               <l>of the Dreadful <hi>Huzza:</hi>
+               </l>
+               <l>
+                  <hi>We'l make the Glaſs,</hi> &amp;c.</l>
+            </lg>
+            <lg n="3">
+               <head>[3]</head>
+               <l>Miſtake us not neither,</l>
+               <l>for all our loud Huffing;</l>
+               <l>We'l ſcorn and abhor to</l>
+               <l>the Name of a <hi>Ruſſian:</hi>
+               </l>
+               <l>Our Prince we do Honour,</l>
+               <l>and all that are Loyal;</l>
+               <l>The Duke and his Intereſt,</l>
+               <l>but <hi>Whigg</hi> we defie all:</l>
+               <l>And thoſe who'd change Kings,</l>
+               <l>without Reaſon or Law,</l>
+               <l>We'l make them to ſwing,</l>
+               <l>or obſerve our <hi>Huzza:</hi>
+               </l>
+               <l>
+                  <hi>And thoſe,</hi> &amp;c.</l>
+            </lg>
+            <lg n="4">
+               <head>[4]</head>
+               <l>If a Yea of a Nay,</l>
+               <l>or a brave of the Court,</l>
+               <l>Or a Canting ſoft Siſter,</l>
+               <l>that's fit for the ſport,</l>
+               <l>Down <hi>Tabitha</hi> goes then,</l>
+               <l>the Saint and the Wicked,</l>
+               <l>Tho' they'r Lungs are conſum'd,</l>
+               <l>till they ſing like a Cricket:</l>
+               <l>We'l make 'um ſtrain high,</l>
+               <l>to declare for our Law,</l>
+               <l>And advance the fierce cry,</l>
+               <l>of the Dreadful <hi>Huzza:</hi>
+               </l>
+               <l>
+                  <hi>VVe'l make,</hi> &amp;c.</l>
+            </lg>
+            <lg n="5">
+               <head>[5]</head>
+               <l>
+                  <hi>Huzza</hi> is the Word,</l>
+               <l>whereſoever we go,</l>
+               <l>We own not a Friend,</l>
+               <l>nor we fear not a Foe:</l>
+               <l>The Wine in our heads,</l>
+               <l>and the Sword in our hands,</l>
+               <l>Are able to baffle</l>
+               <l>The City Train'd-bands:</l>
+               <l>We ſcorn to ſubſcribe</l>
+               <l>to your Reaſon or Law,</l>
+               <l>Since we have a Tribe</l>
+               <l>to maintain the <hi>Huzza:</hi>
+               </l>
+               <l>
+                  <hi>VVe ſcorn,</hi> &amp;c.</l>
+            </lg>
+            <lg n="6">
+               <head>[6]</head>
+               <l>If we chance for to meet</l>
+               <l>with a party Bravading,</l>
+               <l>In Modiſh Harangues,</l>
+               <l>or in brisk Sarranading;</l>
+               <l>Our Link-Boys doe ſummons</l>
+               <l>to ſilence their Piping,</l>
+               <l>Which ſtraight they obey,</l>
+               <l>for fear of our Fighting:</l>
+               <l>The Squires and their Pipers,</l>
+               <l>ſubmit and withdraw,</l>
+               <l>Whilſt we give the Ladies</l>
+               <l>a ſwinging <hi>Huzza:</hi>
+               </l>
+               <l>
+                  <hi>The Squires,</hi> &amp;c.</l>
+            </lg>
+            <lg n="7">
+               <head>[7]</head>
+               <l>Some Play, Swear, and Whore,</l>
+               <l>ſome do Plot, Pimp, and Pad,</l>
+               <l>Some Write till they'r laught at,</l>
+               <l>ſome Read till they'r Mad:</l>
+               <l>Some Rail and Lampoon,</l>
+               <l>till their Wits are quite weary,</l>
+               <l>But on the <hi>Huzza,</hi>
+               </l>
+               <l>we can never Miſcarry:</l>
+               <l>We make the Rogues flye,</l>
+               <l>or imbrace our New Law,</l>
+               <l>And advance the fierce Cry</l>
+               <l>of the dreadful <hi>Huzza:</hi>
+               </l>
+               <l>
+                  <hi>VVe'l make,</hi> &amp;c.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>P. Brooksby;</hi> near the <hi>Hoſpital-gate;</hi> in <hi>Weſt-Smithfield:</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
